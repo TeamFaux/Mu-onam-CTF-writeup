@@ -1,7 +1,7 @@
 @media screen and (max-width: 600px)
 {
     
-    .head-img{width:50vw;height:30vh;}
+    .head-img{width:50vw;height:25vh;}
     .mhide{display: none !important;}
     .binary {height:20vh;}
 }
