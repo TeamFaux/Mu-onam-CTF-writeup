@@ -1,0 +1,6 @@
+@media screen and (max-width: 600px)
+{
+    
+    .head-img{width:50vw;height:30vh;}
+    .mhide{display: none !important;}
+}
