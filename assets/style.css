@@ -24,6 +24,7 @@ a:hover{cursor: pointer;text-decoration: none;color:#9c9c9c;}
 }
 
 .hero-title{    font-size: 3em; font-family: 'Roboto Mono';font-weight: 100; }
+
 .dashed
 {
     border: 1px dashed #222;
@@ -168,8 +169,8 @@ a:hover{cursor: pointer;text-decoration: none;color:#9c9c9c;}
 }
 .snip
 {
-  width:60vw;
-  height:80vh;
+  width:100%;
+  height:auto;
 }
 .cv-code {
   content-visibility: auto;
