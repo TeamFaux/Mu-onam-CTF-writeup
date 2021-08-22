@@ -172,9 +172,9 @@ a:hover{cursor: pointer;text-decoration: none;color:#9c9c9c;}
 }
 .snip
 {
-  width:100%;
+  width:75vw;
   height:auto;
-  padding: 5vw;
+  
 }
 .cv-code {
   content-visibility: auto;
@@ -317,3 +317,17 @@ a:hover{cursor: pointer;text-decoration: none;color:#9c9c9c;}
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+
+.highlighter-rouge{background:rgba(0,0,0,0.9);border:1px solid rgba(255,255,255,0.15);}
+
+pre{
+  background:rgba(0,0,0,0.9);
+  border:1px solid rgba(255,255,255,0.15);
+  padding:10px;
+  font-size:16px;
+  color:#dde0d7;
+  border-radius:2px;
+  word-wrap:normal;
+  overflow:auto;
+  overflow-y:hidden
+}  
